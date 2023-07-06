@@ -4,3 +4,4 @@ tmp/_site/
 _site/
 _site/
 .bundle
+.jekyll-cache
