@@ -1,3 +1,6 @@
 .DS_Store
 *~
-tmp/
+tmp/_site/
+_site/
+_site/
+.bundle
